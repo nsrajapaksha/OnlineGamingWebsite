@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+/* footer*/
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color:  DarkSlateGray;
+  color: white;
+}

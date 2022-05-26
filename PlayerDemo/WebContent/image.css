@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(game.png);
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity:1;
+}
